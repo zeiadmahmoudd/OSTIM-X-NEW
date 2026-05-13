@@ -1,0 +1,9 @@
+beautifulsoup4
+requests
+python-dotenv
+PyPDF2
+docx2txt
+sentence-transformers
+faiss-cpu
+groq
+streamlit
